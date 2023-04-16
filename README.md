@@ -1,4 +1,4 @@
-### Hi Welcome, i'm YUNA BAE 👋
+### Hi Welcome, i'm HyeongSik Kim 
 
 #### AI Researcher / Data Engineering
 Developers who create beneficial social values   
@@ -24,10 +24,6 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 
 🏅 Algorithm Gold Level. 
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yuna1do)](https://solved.ac/yuna1do/)  
-Programmers - Lv3  
-Samsung SW *Pro Level*
 
 
 🏆 Awards
