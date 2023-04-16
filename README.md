@@ -22,9 +22,9 @@ Light Field / Depth Estimation / 3D Vision
 
 📘 Project
 
-|Project|Prize|Date|
-|------|---|---|
-|ETRI|World 2nd Prize|Oct 21, 2020|
+|Project|Date|
+|------|---|
+|ETRI, 플렙옵틱 표준화 연구|World 2nd Prize|Oct 21, 2020|
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
