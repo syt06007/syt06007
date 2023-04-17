@@ -37,7 +37,7 @@ Light Field / Depth Estimation / 3D Vision
 ### 📃 Paper
 
 ### 💳 Certification
-AICE ASSOCIATE
+[AICE ASSOCIATE](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%208%5DAICE_%EC%9E%90%EA%B2%A9%EC%A6%9D02.15.pdf)
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
