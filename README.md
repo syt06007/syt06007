@@ -40,7 +40,10 @@ Light Field / Depth Estimation / 3D Vision
 |IPIU 2023|[라이트 필드 데이터를 이용한 학습 기반 다중 초점 이미지 합성 신경망](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%202%5DIPIU_paper.pdf)|23.02.08-10|
 
 ### 💳 Certification
-[AICE ASSOCIATE](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%208%5DAICE_%EC%9E%90%EA%B2%A9%EC%A6%9D02.15.pdf)
+#### [AICE ASSOCIATE](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%208%5DAICE_%EC%9E%90%EA%B2%A9%EC%A6%9D02.15.pdf)
+
+
+
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
