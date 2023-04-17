@@ -17,21 +17,26 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 Light Field / Depth Estimation / 3D Vision 
 
-🏆 Awards
+🏆 Competition
+|기관|프로젝트|기간|링크|
+|---|------|---|---|
+|창원시|창원 빅데이터 공모전|22.07.01 ~ 22.09.30|2022|
+|창원시|창원 빅데이터 공모전|22.07.01 ~ 22.09.30|2022|
 
 
 📘 Project
 
 |기관|프로젝트|기간|링크|
 |---|------|---|---|
-|ETRI|플렙옵틱 표준화 연구|22.07.04 ~ 22.11.30|2022|
-|창원시|창원 빅데이터 공모전|22.07.01 ~ 22.09.30|2022|
-|단국대학교 공학교육혁신센터|산업체 연계 캡스톤 디자인|23.04.07 ~ 23.11.(예정)|2022|
-|ETRI|플렙옵틱 표준화 연구|22.07.04 ~ 22.11.30|2022|
+|ETRI|플렙옵틱 표준화 연구|22.07.04 ~ 22.11.30|링크|
+|ETRI|플렙옵틱 표준화 연구|22.07.04 ~ 23.11.30|링크|
+|단국대학교|산업체 연계 캡스톤 디자인|23.04.07 ~ 23.11.(예정)|링크|
+|ETRI|플렙옵틱 표준화 연구|22.07.04 ~ 22.11.30|링크|
 
 📃 Paper
 
-
+💳 Certification
+AICE ASSOCIATE
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
