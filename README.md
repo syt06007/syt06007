@@ -22,9 +22,16 @@ Light Field / Depth Estimation / 3D Vision
 
 📘 Project
 
-|Project|Date|
-|------|---|
-|ETRI, 플렙옵틱 표준화 연구|World 2nd Prize|Oct 21, 2020|
+|기관|프로젝트|기간|
+|---|------|---|
+|ETRI|플렙옵틱 표준화 연구|July 04, 2022 ~ November 30, 2022|
+|창원시|창원 빅데이터 공모전|July 01, 2022 ~ September 30, 2022|
+|단국대학교 공학교육혁신센터|산업체 연계 캡스톤 디자인|March 04, 2023 ~ November, 2023(예정)|
+|ETRI|플렙옵틱 표준화 연구|July 04, 2022 ~ november 30, 2022|
+
+📃 Paper
+
+
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
