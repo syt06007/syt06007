@@ -15,7 +15,7 @@ A developer who thinks, researches, creates, and connects to practical realizati
 
 ### 🐱 Interests
 
-Light Field / Depth Estimation / 3D Vision 
+Light Field / Depth Estimation / 3D Vision / SLAM
 
 ### 🏆 Competition
 |기관|대회 이름|기간|링크|
@@ -31,8 +31,8 @@ Light Field / Depth Estimation / 3D Vision
 |기관|프로젝트|기간|링크|
 |---|------|---|---|
 |ETRI|플렙옵틱 표준화 연구|22.07.04 ~ 22.11.30|[확인서](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%207%5D%EB%9D%BC%EC%9D%B4%ED%8A%B8%ED%95%84%EB%93%9C%20%EA%B3%BC%EC%A0%9C%20%EC%B0%B8%EC%97%AC%20%EC%A6%9D%EB%AA%85%EC%84%9C.pdf)|
-|ETRI|플렙옵틱 표준화 연구2|23.05.04 ~ 23.11.30(예정)|링크|
-|단국대학교|산업체 연계 캡스톤 디자인|23.04.07 ~ 23.11.(예정)|링크|
+|ETRI|플렙옵틱 표준화 연구|23.05.01 ~ 23.11.30|링크|
+|단국대학교|산업체 연계 캡스톤 디자인|23.04.07 ~ 23.11.30|링크|
 
 ### 📃 Paper
 |기관|논문명|개재일|
