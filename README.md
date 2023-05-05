@@ -1,8 +1,6 @@
-### Hi Welcome, I'm HyeongSik Kim
+### Hello world! 🌏, I'm HyeongSik Kim
 
-#### AI Researcher / Data Engineering
-Developers who create beneficial social values   
-A developer who thinks, researches, creates, and connects to practical realization by web
+#### Wanna be Vision Researcher
 
 
 ### 🛠️ Stacks
@@ -45,6 +43,9 @@ Light Field / Depth Estimation / 3D Vision / SLAM
 
 ### 📫 Contact
 #### 32181265@dankook.ac.kr (or syt06007@naver.com)
+
+
+
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
