@@ -45,7 +45,7 @@ Light Field / Depth Estimation / 3D Vision / SLAM
 #### 32181265@dankook.ac.kr (or syt06007@naver.com)
 
 
-
+<br/><br/>
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
 Please understand.
