@@ -1,6 +1,6 @@
-### Hello world! 🌏, I'm HyeongSik Kim
+# Hello world! 🌏, I'm HyeongSik Kim
 
-#### Wanna be Vision Researcher
+## Wanna be Vision Researcher
 
 
 ### 🛠️ Stacks
