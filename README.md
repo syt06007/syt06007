@@ -30,9 +30,9 @@ Light Field / Depth Estimation / 3D Vision / SLAM
 
 |기관|프로젝트|기간|링크|
 |---|------|---|---|
-|ETRI|플렙옵틱 표준화 연구|22.07.04 ~ 22.11.30|[확인서](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%207%5D%EB%9D%BC%EC%9D%B4%ED%8A%B8%ED%95%84%EB%93%9C%20%EA%B3%BC%EC%A0%9C%20%EC%B0%B8%EC%97%AC%20%EC%A6%9D%EB%AA%85%EC%84%9C.pdf)|
-|ETRI|플렙옵틱 표준화 연구|23.05.01 ~ 23.11.30|링크|
-|단국대학교|산업체 연계 캡스톤 디자인|23.04.07 ~ 23.11.30|링크|
+|ETRI|플렙옵틱 표준화 연구 연구용역|22.07.04 ~ 22.11.30|[확인서](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%207%5D%EB%9D%BC%EC%9D%B4%ED%8A%B8%ED%95%84%EB%93%9C%20%EA%B3%BC%EC%A0%9C%20%EC%B0%B8%EC%97%AC%20%EC%A6%9D%EB%AA%85%EC%84%9C.pdf)|
+|ETRI|플렌옵틱 표준화 연구 연구용역|23.05.01 ~ 23.11.30|-|
+|단국대학교|산업체 연계 캡스톤 디자인|23.04.07 ~ 23.11.30|[링크](https://cms.dankook.ac.kr/web/abeek/-28?p_p_id=Bbs_WAR_bbsportlet&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_Bbs_WAR_bbsportlet_action=view_message&_Bbs_WAR_bbsportlet_messageId=768309)|
 
 ### 📃 Paper
 |기관|논문명|개재일|
