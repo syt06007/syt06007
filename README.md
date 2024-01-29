@@ -32,7 +32,6 @@ Multi View Stereo / Depth Estimation / 3D Vision / Visual Localization
 |기관|프로젝트|기간|링크|
 |---|------|---|---|
 |ETRI|플렙옵틱 표준화 연구 연구용역|22.07.04 ~ 22.11.30|-|
-|단국대학교|산업체 연계 캡스톤 디자인(CS로보틱스)|23.04.07 ~ 23.11.30|[repo](https://github.com/syt06007/Where_are_you_going)|
 |ETRI|플렌옵틱 표준화 연구 연구용역|23.07.17 ~ 23.11.30|-|
 <br/>
 
