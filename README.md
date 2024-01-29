@@ -34,7 +34,7 @@ Multi View Stereo / Depth Estimation / 3D Vision / Visual Localization
 <br/>
 
 ### 📃 Paper
-|기관|논문명|개재일|링크|
+|기관|논문명|게재일|링크|
 |---|------|---|--|
 |IPIU 2023|[라이트 필드 데이터를 이용한 학습 기반 다중 초점 이미지 합성 신경망](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%202%5DIPIU_paper.pdf)|23.02.08-10|[repo](https://github.com/syt06007/Multi-Focus-Image-Fusion)|
 <br/>
