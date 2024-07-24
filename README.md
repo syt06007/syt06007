@@ -56,4 +56,3 @@ Multi View Stereo / Depth Estimation / 3D Vision / Light Field
 <br/><br/>
 
 There are many parts of the project and development source that I have been unable to disclose due to internal confidentiality and the organizer's pledge of confidentiality.  
-Please understand.
