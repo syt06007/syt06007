@@ -15,6 +15,14 @@
 
 Multi View Stereo / Depth Estimation / 3D Vision / Visual Localization
 <br/>
+
+### 📃 Paper
+|기관|논문명|게재일|링크|
+|---|------|---|--|
+|IPIU 2023|[라이트 필드 데이터를 이용한 학습 기반 다중 초점 이미지 합성 신경망](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%202%5DIPIU_paper.pdf)|23.02.08-10|[repo](https://github.com/syt06007/Multi-Focus-Image-Fusion)|
+|IEEE Access|[LFDA: A Framework for Light Field Depth Estimation With Depth Attention](https://ieeexplore.ieee.org/document/10508345)|23.02.08-10|[repo](https://github.com/syt06007/LFDA)|
+<br/>
+
 ### 🏆 Competition
 |기관|대회 이름|기간|링크|
 |---|------|---|---|
@@ -27,7 +35,7 @@ Multi View Stereo / Depth Estimation / 3D Vision / Visual Localization
 
 <br/>
 
-### 📘 Project
+### 📘 Past Project
 
 |기관|프로젝트|기간|링크|
 |---|------|---|---|
@@ -35,20 +43,13 @@ Multi View Stereo / Depth Estimation / 3D Vision / Visual Localization
 |ETRI|플렌옵틱 표준화 연구 연구용역|23.07.17 ~ 23.11.30|-|
 <br/>
 
-### 📃 Paper
-|기관|논문명|게재일|링크|
-|---|------|---|--|
-|IPIU 2023|[라이트 필드 데이터를 이용한 학습 기반 다중 초점 이미지 합성 신경망](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%202%5DIPIU_paper.pdf)|23.02.08-10|[repo](https://github.com/syt06007/Multi-Focus-Image-Fusion)|
-|IEEE Access|[LFDA: A Framework for Light Field Depth Estimation With Depth Attention](https://ieeexplore.ieee.org/document/10508345)|23.02.08-10|[repo](https://github.com/syt06007/LFDA)|
-
-<br/>
 
 ### 💳 Certification
 #### [AICE ASSOCIATE](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%208%5DAICE_%EC%9E%90%EA%B2%A9%EC%A6%9D02.15.pdf)
 <br/>
 
 ### 📫 Contact
-#### 32181265@dankook.ac.kr (or syt06007@naver.com)
+#### khs06007@hanyang.ac.kr, 32181265@dankook.ac.kr (or syt06225@gmail.com)
 
 
 <br/><br/>
