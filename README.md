@@ -1,8 +1,5 @@
 # Hello world! 🌏, I'm HyeongSik Kim
 
-### Wanna be Vision Researcher
-<br/>
-
 ### 🛠️ Stacks
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/> 
