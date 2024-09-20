@@ -33,7 +33,7 @@ Multi View Stereo / Depth Estimation / 3D Vision / Light Field
 |홍익대학교 <br/>바이오헬스 <br/>혁신융합대학사업단|2023 바이오헬스 데이터 경진대회|23.10.27 ~ 23.12.01|[링크](https://aiconnect.kr/competition/detail/234), 장려상(4위/31팀)|
 
 <br/>
-
+<!--
 ### 📘 Past Project
 
 |기관|프로젝트|기간|링크|
@@ -41,7 +41,7 @@ Multi View Stereo / Depth Estimation / 3D Vision / Light Field
 |ETRI|플렙옵틱 표준화 연구 연구용역|22.07.04 ~ 22.11.30|-|
 |ETRI|플렌옵틱 표준화 연구 연구용역|23.07.17 ~ 23.11.30|-|
 <br/>
-
+-->
 
 ### 💳 Certification
 #### [AICE ASSOCIATE](https://github.com/syt06007/syt06007/blob/main/%5B%EC%B2%A8%EB%B6%80%208%5DAICE_%EC%9E%90%EA%B2%A9%EC%A6%9D02.15.pdf)
