@@ -10,7 +10,7 @@
 <br/>
 ### 🐱 Interests
 
-Multi View Stereo / Depth Estimation / 3D Vision / Light Field
+Cross-View Localization / Visual SLAM / 3D Vision / Multi-View Stereo
 <br/>
 
 ### 📃 Paper (as first author)
